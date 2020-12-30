@@ -1,0 +1,1 @@
+The following archive contains code used in the Elasticsearch Server second edition book published by Packt Publishing (http://www.packtpub.com/elasticsearch-server-2e/book). If you find any problem or have questions please contact the authors at: support@elasticsearchserverbook.com

@@ -1,0 +1,18 @@
+{
+ "query" : {
+  "filtered": {
+   "query" : {
+    "range" : {
+     "year" : {
+      "lt" : 2010
+     }
+    }
+   },
+   "filter" : {
+    "term" : {
+     "available" : true
+    }
+   }
+  }
+ }
+}

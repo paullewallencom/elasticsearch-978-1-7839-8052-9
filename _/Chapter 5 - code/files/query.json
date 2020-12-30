@@ -1,0 +1,7 @@
+{
+  "fields" : ["title", "author", "date", "keywords", "content_type", "note"],
+  "query" : {
+    "term" : { "book" : "example" }
+  }
+}
+
